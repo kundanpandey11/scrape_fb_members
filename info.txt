@@ -1,0 +1,8 @@
+task on facebook group scrape 
+1. add infinite scroll in the group memebers page 
+2. extract memebers info while scrole and take out the unique once
+3. the function should ask for group urn and name to create a csv file
+4. disable all print statements except for exceptions 
+
+
+5. write a script to take out memebers contact info 
