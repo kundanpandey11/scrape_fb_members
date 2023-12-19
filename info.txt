@@ -6,3 +6,27 @@ task on facebook group scrape
 
 
 5. write a script to take out memebers contact info 
+
+
+
+				Facebook Group Links
+
+
+
+
+Link-1:https://www.facebook.com/groups/wecomforum/
+
+
+Link-2:https://www.facebook.com/groups/eeCAB/
+
+
+Link-3:https://www.facebook.com/groups/info.businessmartbd/
+
+
+Link-4:https://www.facebook.com/groups/DSEntrepreneurs/
+
+
+
+............................................................
+
+if you scrape successfully these 4 Facebook group members  I will provide you 5 s-tar feed-back with positive r-eview on your profile and opportunity for future projects.
