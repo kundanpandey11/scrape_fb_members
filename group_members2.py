@@ -93,9 +93,9 @@ def save_members(group_url="https://www.facebook.com/groups/DSEntrepreneurs/memb
         except Exception as e:
             exception = e
             print("Scrolling....")
-            for i in range(4):
-                driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-                time.sleep(2)
+            # for i in range(4):
+            driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+            time.sleep(3)
             scroll_count += 1
             attempt += 1
         if container_count % 100 == 0:
