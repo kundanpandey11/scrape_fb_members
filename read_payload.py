@@ -14,6 +14,7 @@ def read_payload(payload, sample="sample 1"):
             joined = ""
         try:
             name = pld['node']["name"]
+            # print(name)
             url = pld['node']['url']
         except Exception as e:
             print(e)
