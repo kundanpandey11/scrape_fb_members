@@ -1,0 +1,32 @@
+task on facebook group scrape 
+1. add infinite scroll in the group memebers page 
+2. extract memebers info while scrole and take out the unique once
+3. the function should ask for group urn and name to create a csv file
+4. disable all print statements except for exceptions 
+
+
+5. write a script to take out memebers contact info 
+
+
+
+				Facebook Group Links
+
+
+
+
+Link-1:https://www.facebook.com/groups/wecomforum/
+
+
+Link-2:https://www.facebook.com/groups/eeCAB/
+
+
+Link-3:https://www.facebook.com/groups/info.businessmartbd/
+
+
+Link-4:https://www.facebook.com/groups/DSEntrepreneurs/
+
+
+
+............................................................
+
+if you scrape successfully these 4 Facebook group members  I will provide you 5 s-tar feed-back with positive r-eview on your profile and opportunity for future projects.
