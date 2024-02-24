@@ -1,6 +1,6 @@
 import requests
 from read_payload import read_payload
-from save_cursor import append_cursor_to_file
+from utils.save_cursor import append_cursor_to_file
 import csv
 import time 
 
